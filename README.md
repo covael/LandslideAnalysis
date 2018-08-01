@@ -14,8 +14,8 @@ Extractor.py
 -ro <"Insert filename directory path for the raster output (.tif)">
 
 Example:
-
--f "D:/School/9-Summer 2018/Application Development/Landslide Analysis/Directory/Counties/Counties.shp"
+LAExtractor.py
+-f "C:\Users\rkband8493\Desktop\LandslideAnalysis/Directory/Counties/Counties.shp"
 -n "Hall Fulton Forsyth"
--ri "D:/School/9-Summer 2018/Application Development/Landslide Analysis/Directory/Weight/Weight.tif"
--ro "D:/School/9-Summer 2018/Application Development/Landslide Analysis/Directory/Clipped Output/Hall Fulton Forsyth.tif"
+-ri "C:\Users\rkband8493\Desktop\LandslideAnalysis\Directory\WeightWeight.tif"
+-ro "C:\Users\rkband8493\Desktop\LandslideAnalysis\Directory\Clipped Output/Hall Fulton Forsyth.tif"
