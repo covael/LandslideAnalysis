@@ -7,7 +7,7 @@ To work with the data, the folder "Directory" has been included.
 
 Contiguous Command (Place the commands on one line separated by spaces):
 
-myclip.py
+Extractor.py
 -f "<Insert filename directory path to georgia counties shapefile>"
 -n <"Insert SPACE delimited county NAMES to extract from the counties shapefile">
 -ri <"Insert filename directory path to landslide analysis, weighted sum">
